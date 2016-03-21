@@ -1,6 +1,0 @@
-{
-  "name": "JUnit",
-  "tagline": "JUnit - the programmer-oriented testing framework for Java.",
-  "body": "### JUnit 4\r\n\r\nJUnit 4 is the current stable version of JUnit. For more information, please visit the [JUnit 4 website](http://junit.org/junit4).\r\n\r\n### JUnit 5\r\n\r\nJUnit 5 is the next generation of JUnit. The goal is to create an up-to-date foundation for developer-side testing on the JVM. This includes focusing on Java 8 and above, as well as enabling many different styles of testing. For more information, please refer to the [User Guide](https://junit-team.github.io/junit5/) or the [Source Code on GitHub](https://github.com/junit-team/junit5).\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
