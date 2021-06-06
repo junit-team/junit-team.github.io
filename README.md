@@ -1,4 +1,4 @@
-# Future JUnit Website
+# JUnit Website
 
 ## Generating redirects to former JUnit 4 pages
 
