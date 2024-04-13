@@ -12,7 +12,7 @@ Your donations will help to make that a reality!
 <div align="center">
   <ul class="list-inline">
     <li>
-      <a class="cardgold" href="https://www.jetbrains.com/idea">
+      <a class="cardgold" href="https://jb.gg/junit-logo">
         <div class="cardgold-image">
           <img style="height:100px; padding-left:30px" src="assets/img/sponsor-logo-JetBrains.svg" alt="JetBrains">
         </div>
