@@ -14,7 +14,7 @@ Your donations will help to make that a reality!
     <li>
       <a class="cardgold" href="https://jb.gg/junit-logo">
         <div class="cardgold-image">
-          <img style="height:100px; padding-left:30px" src="assets/img/sponsor-logo-JetBrains.svg" alt="JetBrains">
+          <img style="width:85%" src="assets/img/sponsor-logo-JetBrains.svg" alt="JetBrains">
         </div>
         <div class="cardgold-center">
           <h3>IntelliJ IDEA</h3>
