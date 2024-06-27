@@ -164,7 +164,6 @@ Your donations will help to make that a reality!
 - Stefan Gwihs
 - linux_china
 - Zerocode
-- Simon Schrottner
 - Zoran Regvart
 - Tokuhiro Matsuno
 - Atsushi Komiya
@@ -176,7 +175,6 @@ Your donations will help to make that a reality!
 - Rafael Fernández Font Perez
 - Roman Pylypaka
 - Ravi Vasamsetty
-- Rajesh Aadi
 - Jun Nakamura
 - Sebastian Staack
 - Paul Schaub
