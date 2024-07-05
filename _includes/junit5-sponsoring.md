@@ -179,3 +179,4 @@ Your donations will help to make that a reality!
 - Sebastian Staack
 - Paul Schaub
 - Tadeas Kriz
+- Toshihiro Nakamura
