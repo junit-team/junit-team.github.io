@@ -157,6 +157,22 @@ Your donations will help to make that a reality!
       </a>
     </li>
   </ul>
+  <ul class="list-inline">
+    <li>
+      <a class="cardbronze" href="https://route4me.com">
+        <div class="cardbronze-image">
+          <img style="width:90%;" src="assets/img/sponsor-logo-Route4Me.svg" alt="Route4Me">
+        </div>
+        <div class="cardbronze-center">
+          <h4>Route4Me</h4>
+        </div>
+        <div class="cardbronze-bottom">
+          <h4>Bronze Sponsor</h4>
+          <p>Since July 2024</p>
+        </div>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ### Backers
