@@ -8,7 +8,7 @@ Your donations will help to make that a reality!
 
 **Thank you!**
 
-[//]: # (First line of Gold Sponsor Badges)
+[//]: # (Gold Sponsor Badges)
 <div align="center">
   <ul class="list-inline">
     <li>
@@ -33,7 +33,7 @@ Your donations will help to make that a reality!
   </ul>
 </div>
 
-[//]: # (First line of Silver Sponsor Badges)
+[//]: # (Silver Sponsor Badges)
 <div align="center">
   <ul class="list-inline">
     <li>
@@ -67,7 +67,7 @@ Your donations will help to make that a reality!
   </ul>
 </div>
 
-[//]: # (First line of Bronze Sponsor Badges)
+[//]: # (Bronze Sponsor Badges)
 <div align="center">
   <ul class="list-inline">
     <li>
@@ -112,8 +112,6 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-  </ul>
-  <ul class="list-inline">
     <li>
       <a class="cardbronze" href="https://www.infosupport.com">
         <div class="cardbronze-image">
@@ -156,8 +154,6 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
-  </ul>
-  <ul class="list-inline">
     <li>
       <a class="cardbronze" href="https://route4me.com">
         <div class="cardbronze-image">
