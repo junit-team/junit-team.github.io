@@ -168,6 +168,20 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
+    <li>
+      <a class="cardbronze" href="https://www.testiny.io">
+        <div class="cardbronze-image">
+          <img style="width:90%;" src="assets/img/sponsor-logo-Testiny.svg" alt="Testiny">
+        </div>
+        <div class="cardbronze-center">
+          <h4>Testiny</h4>
+        </div>
+        <div class="cardbronze-bottom">
+          <h4>Bronze Sponsor</h4>
+          <p>Since September 2024</p>
+        </div>
+      </a>
+    </li>
   </ul>
 </div>
 
