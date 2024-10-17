@@ -830,5 +830,18 @@
     "speakers": [
       "sbrannen"
     ]
+  },
+  {
+    "title": "JUnit Hackathon",
+    "event": "hack.commit.push Switzerland 2024",
+    "date": "2024-11-23",
+    "location": "Lucerne, Switzerland",
+    "link": "https://switzerland2024.hack-commit-pu.sh",
+    "speakers": [
+      "sbrannen",
+      "marcphilipp",
+      "juliettederancourt",
+      "sormuras"
+    ]
   }
 ]
