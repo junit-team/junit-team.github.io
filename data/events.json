@@ -843,5 +843,18 @@
       "juliettederancourt",
       "sormuras"
     ]
+  },
+  {
+    "title": "The JUnit Crew Presents What's New",
+    "event": "IntelliJ IDEA Livestream",
+    "date": "2024-11-27",
+    "location": "online",
+    "link": "https://blog.jetbrains.com/idea/2024/11/new-livestream-the-junit-crew-presents-the-latest-features/",
+    "speakers": [
+      "sbrannen",
+      "marcphilipp",
+      "juliettederancourt",
+      "sormuras"
+    ]
   }
 ]
