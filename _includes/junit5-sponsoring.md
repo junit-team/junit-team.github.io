@@ -204,5 +204,6 @@ Your donations will help to make that a reality!
 - Jun Nakamura
 - Sebastian Staack
 - Paul Schaub
+- Hiroshi Ito
 - Toshihiro Nakamura
 - Venkat Subramaniam
