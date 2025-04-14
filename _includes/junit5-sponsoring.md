@@ -184,7 +184,6 @@ Your donations will help to make that a reality!
 - Christian Femers
 - Niklas Seyfarth
 - Rafael Fernández Font Perez
-- Roman Pylypaka
 - Ravi Vasamsetty
 - Jun Nakamura
 - Sebastian Staack
