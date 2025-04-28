@@ -33,7 +33,7 @@ Your donations will help to make that a reality!
     <li>
       <a class="cardgold" href="https://www.netflix.com">
         <div class="cardgold-image">
-          <img style="width:85%" src="assets/img/sponsor-logo-Netflix.svg" alt="Netflix">
+          <img style="width:80%" src="assets/img/sponsor-logo-Netflix.svg" alt="Netflix">
         </div>
         <div class="cardgold-center">
           <h3>Netflix</h3>
