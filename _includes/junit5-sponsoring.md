@@ -131,20 +131,6 @@ Your donations will help to make that a reality!
       </a>
     </li>
     <li>
-      <a class="cardbronze" href="https://stiltsoft.com">
-        <div class="cardbronze-image">
-          <img style="width:90%" src="assets/img/sponsor-logo-Stiltsoft.svg" alt="Stiltsoft">
-        </div>
-        <div class="cardbronze-center">
-          <h4>Stiltsoft</h4>
-        </div>
-        <div class="cardbronze-bottom">
-          <h4>Bronze Sponsor</h4>
-          <p>Since August 2022</p>
-        </div>
-      </a>
-    </li>
-    <li>
       <a class="cardbronze" href="https://www.code-intelligence.com">
         <div class="cardbronze-image">
           <img style="width:95%" src="assets/img/sponsor-logo-CodeIntelligence.png" alt="Code Intelligence">
@@ -210,3 +196,4 @@ Your donations will help to make that a reality!
 - Toshihiro Nakamura
 - Venkat Subramaniam
 - Yongjun Hong
+- Stiltsoft
