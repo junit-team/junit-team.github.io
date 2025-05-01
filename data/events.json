@@ -867,5 +867,15 @@
       "marcphilipp",
       "sormuras"
     ]
+  },
+  {
+    "title": "Catching up with JUnit",
+    "event": "IntelliJ IDEA Conf",
+    "date": "2025-06-03",
+    "location": "Amsterdam, Netherlands",
+    "link": "https://lp.jetbrains.com/intellij-idea-conf-2025/",
+    "speakers": [
+      "marcphilipp"
+    ]
   }
 ]
