@@ -16,3 +16,8 @@ repository: junit-team.github.io
 
 # Build settings
 markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
