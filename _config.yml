@@ -16,6 +16,3 @@ repository: junit-team.github.io
 
 # Build settings
 markdown: kramdown
-
-exclude:
-- faq.md
