@@ -25,6 +25,6 @@ This includes focusing on Java 8 and above, as well as enabling many different s
 
 You're invited to follow our ongoing work, review it, and give feedback. The following short list of links will get you started.
 
-- [User Guide]({{ site.baseurl }}/docs/current/user-guide)
-- [Javadoc]({{ site.baseurl }}/docs/current/api)
+- [User Guide](https://docs.junit.org/current/user-guide)
+- [Javadoc](https://docs.junit.org/current/api)
 - [GitHub Repository](https://github.com/junit-team/junit5/) with source code and an issue tracker
