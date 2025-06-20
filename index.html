@@ -1,10 +1,10 @@
 ---
 layout: default
-title: JUnit 5
+title: JUnit
 ---
 
 <div class="jumbotron">
-  <h1>The 5th major version of the programmer-friendly testing framework for Java and the JVM</h1>
+  <h1>The programmer-friendly testing framework for Java and the JVM</h1>
   <ul class="list-inline">
     <li><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/docs/current/user-guide" role="button">
       <i class="fa-solid fa-book"></i>&nbsp;
@@ -14,7 +14,7 @@ title: JUnit 5
       <i class="icon-java" style="display:block; float:left; padding-top:2px; height:10px; line-height:18px; font-size:24px;" aria-hidden="true"></i>
       Javadoc
     </a></li>
-    <li><a class="btn btn-primary btn-lg" href="https://github.com/junit-team/junit5/" role="button">
+    <li><a class="btn btn-primary btn-lg" href="{{ site.current_repo_url }}/" role="button">
       <i class="fa-brands fa-github fa-lg"></i>&nbsp;
       Code &amp; Issues
     </a></li>
@@ -31,10 +31,10 @@ title: JUnit 5
 
 <div class="row">
   <div class="col-md-8 col-sm-7">
-    {% capture junit5-intro %}{% include junit5-intro.md %}{% endcapture %}
-    {{ junit5-intro | markdownify }}
-    {% capture junit5-sponsoring %}{% include junit5-sponsoring.md %}{% endcapture %}
-    {{ junit5-sponsoring | markdownify }}
+    {% capture junit-intro %}{% include junit-intro.md %}{% endcapture %}
+    {{ junit-intro | markdownify }}
+    {% capture junit-sponsoring %}{% include junit-sponsoring.md %}{% endcapture %}
+    {{ junit-sponsoring | markdownify }}
   </div>
   <div class="col-md-4 col-sm-5">
     <h2>Latest Release</h2>
@@ -51,14 +51,14 @@ title: JUnit 5
     </p>
     <p>
       JUnit artifacts are deployed to Maven Central and can be downloaded using the above links.
-      All files are signed using the keys listed in the <a href="https://github.com/junit-team/junit5/blob/master/KEYS">KEYS</a> file.
+      All files are signed using the keys listed in the <a href="{{ site.current_repo_url }}/blob/master/KEYS">KEYS</a> file.
     </p>
     <h2>Upcoming Events</h2>
     <div id="events">
       <script defer type="text/javascript" src="{{ site.baseurl }}/assets/js/events.js"></script>
     </div>
     <div>
-      <a class="btn btn-default btn-xs" href="https://github.com/junit-team/junit5/wiki/Adding-your-talk-to-the-JUnit-website" role="button">
+      <a class="btn btn-default btn-xs" href="{{ site.current_repo_url }}/wiki/Adding-your-talk-to-the-JUnit-website" role="button">
         <i class="fa-solid fa-plus"></i>&nbsp;
         Add your talk
       </a>
