@@ -1,3 +1,93 @@
 ---
-layout: junit5_redirect
+layout: default
+title: JUnit
 ---
+
+<div class="jumbotron">
+  <h1>The programmer-friendly testing framework for Java and the JVM</h1>
+  <ul class="list-inline">
+    <li><a class="btn btn-primary btn-lg" href="https://docs.junit.org/current/user-guide" role="button">
+      <i class="fa-solid fa-book"></i>&nbsp;
+      User Guide
+    </a></li>
+    <li><a class="btn btn-primary btn-lg" href="https://docs.junit.org/current/api" role="button">
+      <i class="icon-java" style="display:block; float:left; padding-top:2px; height:10px; line-height:18px; font-size:24px;" aria-hidden="true"></i>
+      Javadoc
+    </a></li>
+    <li><a class="btn btn-primary btn-lg" href="{{ site.current_repo_url }}/" role="button">
+      <i class="fa-brands fa-github fa-lg"></i>&nbsp;
+      Code &amp; Issues
+    </a></li>
+    <li><a class="btn btn-primary btn-lg" href="http://stackoverflow.com/questions/tagged/junit5" role="button">
+      <i class="fa-brands fa-stack-overflow fa-lg"></i>&nbsp;
+      Q&thinsp;&amp;&thinsp;A
+    </a></li>
+    <li><a class="btn btn-danger btn-lg" href="https://steadyhq.com/en/junit" role="button">
+      <i class="fa-solid fa-heart"></i>&nbsp;
+      Support JUnit
+    </a></li>
+  </ul>
+</div>
+
+<div class="row">
+  <div class="col-md-8 col-sm-7">
+    {% capture junit-intro %}{% include junit-intro.md %}{% endcapture %}
+    {{ junit-intro | markdownify }}
+    {% capture junit-sponsoring %}{% include junit-sponsoring.md %}{% endcapture %}
+    {{ junit-sponsoring | markdownify }}
+  </div>
+  <div class="col-md-4 col-sm-5">
+    <h2>Latest Release</h2>
+    <p>
+      <a href="https://central.sonatype.com/search?namespace=org.junit.jupiter">
+        <img alt="JUnit Jupiter version" src="https://img.shields.io/maven-central/v/org.junit.jupiter/junit-jupiter/5..svg?color=25a162&label=Jupiter">
+      </a>
+      <a href="https://central.sonatype.com/search?namespace=org.junit.vintage">
+        <img alt="JUnit Vintage version" src="https://img.shields.io/maven-central/v/org.junit.vintage/junit-vintage-engine/5..svg?color=25a162&label=Vintage">
+      </a>
+      <a href="https://central.sonatype.com/search?namespace=org.junit.platform">
+        <img alt="JUnit Platform version" src="https://img.shields.io/maven-central/v/org.junit.platform/junit-platform-commons/1..svg?color=25a162&label=Platform">
+      </a>
+    </p>
+    <p>
+      JUnit artifacts are deployed to Maven Central and can be downloaded using the above links.
+      All files are signed using the keys listed in the <a href="{{ site.current_repo_url }}/blob/master/KEYS">KEYS</a> file.
+    </p>
+    <h2>Upcoming Events</h2>
+    <div id="events">
+      <script defer type="text/javascript" src="{{ site.baseurl }}/assets/js/events.js"></script>
+    </div>
+    <div>
+      <a class="btn btn-default btn-xs" href="{{ site.current_repo_url }}/wiki/Adding-your-talk-to-the-JUnit-website" role="button">
+        <i class="fa-solid fa-plus"></i>&nbsp;
+        Add your talk
+      </a>
+    </div>
+    <h2>Thank You</h2>
+    <p>In addition to our sponsors, we'd like to thank the following companies.</p>
+    <div class="row">
+      <div class="col-lg-6">
+        <p style="min-height: 65px;"><a href="https://github.com"><img alt="GitHub" src="{{ site.baseurl }}/assets/img/github.png" class="img-responsive"></a></p>
+        <p class="text-center">The JUnit team uses <a href="https://github.com">GitHub</a> for version control, project management, and CI.</p>
+      </div>
+      <div class="col-lg-6">
+        <hr class="hidden-lg">
+        <p style="min-height: 65px;"><a href="https://gradle.com"><img alt="Revved up by Develocity" src="{{ site.baseurl }}/assets/img/develocity.png" class="img-responsive"></a></p>
+        <p class="text-center">The JUnit team relies on <a href="https://gradle.com/develocity">Develocity</a> to analyze and speed up our builds.</p>
+      </div>
+    </div>
+    <div class="row" style="margin-top: 20px;">
+      <div class="col-lg-6">
+        <hr class="hidden-lg">
+        <p><a href="https://jb.gg/OpenSourceSupport"><img alt="JetBrains" src="https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg" class="img-responsive"></a></p>
+        <p class="text-center">The JUnit team uses OSS licenses of <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a> for development.</p>
+      </div>
+    </div>
+    <h2>Follow Us</h2>
+    <ul class="list-inline">
+      <li><a href="https://bsky.app/profile/junit.org"><i class="fa-brands fa-bluesky fa-lg"></i>&nbsp;Bluesky</a></li>
+      <li><a rel="me" href="https://fosstodon.org/@junit"><i class="fa-brands fa-mastodon fa-lg"></i>&nbsp;Mastodon</a>
+      </li>
+    </ul>
+  </div>
+</div>

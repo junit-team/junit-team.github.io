@@ -1,0 +1,222 @@
+---
+---
+
+@import "bootstrap";
+
+#navbar-main {
+	border: 0;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+@media (min-width: $screen-sm-min) {
+	#navbar-main {
+		margin-top: 50px;
+		margin-bottom: 30px;
+	}
+}
+.navbar-brand {
+	margin-top: -15px;
+	font-size: $navbar-height - 10px;
+	font-weight: 300;
+	line-height: $navbar-height;
+}
+.navbar-brand img {
+	height: $navbar-height;
+	float: left;
+	margin-right: 20px;
+}
+#navbar-main .container-fluid {
+	padding: 0;
+}
+.jumbotron {
+	text-align: center;
+}
+.jumbotron h1 {
+	margin-bottom: 30px;
+	font-weight: 300;
+	line-height: 120%;
+	font-size: $font-size-h2;
+}
+@media (min-width: $screen-sm-min) {
+	.jumbotron h1 {
+		font-size: $jumbotron-heading-font-size;
+	}
+}
+.jumbotron li {
+	padding: 5px;
+}
+
+#events dt {
+	margin-top: 7px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+$footer_height: 40px;
+html {
+	position: relative;
+	min-height: 100%;
+}
+body {
+	margin-bottom: $footer_height * 2;
+}
+footer {
+	padding-top: ($footer_height - ($line-height-base * $font-size-base)) / 2;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: $footer_height;
+	background-color: $jumbotron-bg;
+	color: darken($jumbotron-bg, 25%);
+}
+
+/* Sponsor card style: GOLD
+-------------------------------------------------- */
+.cardgold {
+    width: 235px;
+    margin: 10px 1px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    text-align: center;
+    font-size: small;
+    background-color: gold; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, gold, white); /* Standard syntax (must be last) */
+    cursor: pointer;
+    display: block;
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+.cardgold:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.cardgold-image {
+    display: block;
+    width: 100%;
+    height: 120px;
+    line-height: 120px;
+    overflow: hidden;
+}
+
+.cardgold-center {
+    display: block;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+}
+
+.cardgold-bottom {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    font-size: x-small;
+}
+
+.cardgold-bottom h4 {
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+}
+
+/* Sponsor card style: SILVER
+-------------------------------------------------- */
+.cardsilver {
+    width: 235px;
+    margin: 10px 1px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    text-align: center;
+    font-size: small;
+    background-color: silver;
+    background-image: linear-gradient(to bottom right, silver, white);
+    cursor: pointer;
+    display: block;
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+.cardsilver:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.cardsilver-image {
+    display: block;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    overflow: hidden;
+}
+
+.cardsilver-center {
+    display: block;
+    width: 100%;
+    height: 40px;
+    overflow: hidden;
+}
+
+.cardsilver-bottom {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    font-size: x-small;
+}
+
+.cardsilver-bottom h4 {
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+}
+
+/* Sponsor card style: BRONZE
+-------------------------------------------------- */
+.cardbronze {
+    width: 235px;
+    margin: 10px 1px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    text-align: center;
+    font-size: small;
+    background-color: chocolate; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, white, chocolate); /* Standard syntax (must be last) */
+    cursor: pointer;
+    display: block;
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+.cardbronze:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.cardbronze-image {
+    display: block;
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    overflow: hidden;
+}
+
+.cardbronze-center {
+    display: block;
+    width: 100%;
+    height: 40px;
+    overflow: hidden;
+}
+
+.cardbronze-bottom {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    font-size: x-small;
+}
+
+.cardbronze-bottom h4 {
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+}
+
+.cardsilver-center, .cardbronze-center {
+    display: none;
+}

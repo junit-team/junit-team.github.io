@@ -1,0 +1,132 @@
+{
+  "marcphilipp": {
+    "name": "Marc Philipp",
+    "github_username": "marcphilipp",
+    "twitter_username": "marcphilipp",
+    "link": "http://www.marcphilipp.de/",
+    "picture": "https://avatars0.githubusercontent.com/u/214207?v=3&s=460"
+  },
+  "jlink": {
+    "name": "Johannes Link",
+    "github_username": "jlink",
+    "twitter_username": "johanneslink",
+    "link": "http://johanneslink.net/",
+    "picture": "https://avatars3.githubusercontent.com/u/103937?v=3&s=400"
+  },
+  "mmerdes": {
+    "name": "Matthias Merdes",
+    "github_username": "mmerdes",
+    "picture": "https://avatars3.githubusercontent.com/u/9845887?v=3&s=400"
+  },
+  "sbrannen": {
+    "name": "Sam Brannen",
+    "github_username": "sbrannen",
+    "twitter_username": "sam_brannen",
+    "link": "http://sambrannen.com/",
+    "picture": "https://avatars2.githubusercontent.com/u/104798?v=3&s=460"
+  },
+  "bechte": {
+    "name": "Stefan Bechtold",
+    "github_username": "bechte",
+    "twitter_username": "bechte",
+    "link": "http://www.bechte.de/",
+    "picture": "https://avatars0.githubusercontent.com/u/453673?v=3&s=460"
+  },
+  "sormuras": {
+    "name": "Christian Stein",
+    "github_username": "sormuras",
+    "twitter_username": "sormuras",
+    "link": "https://sormuras.github.io",
+    "picture": "https://avatars2.githubusercontent.com/u/2319838?v=4&s=460"
+  },  
+  "nicolaiparlog": {
+    "name": "Nicolai Parlog",
+    "github_username": "nicolaiparlog",
+    "twitter_username": "nipafx",
+    "link": "http://codefx.org/"
+  },
+  "smoyer": {
+    "name": "Steve Moyer",
+    "github_username": "smoyer64"
+  },
+  "nur1": {
+    "name": "Niraja Ramesh",
+    "github_username": "nur1"
+  },
+  "sgs116": {
+    "name": "Stephen Seltzer",
+    "github_username": "sgs116"
+  },
+  "bonigarcia": {
+    "name": "Boni Garcia",
+    "github_username": "bonigarcia",
+    "twitter_username": "boni_gg",
+    "link": "http://bonigarcia.github.io/",
+    "picture": "https://avatars3.githubusercontent.com/u/5413013?v=4&s=400"
+  },
+  "billykorando": {
+    "name": "Billy Korando",
+    "github_username": "wkorando",
+    "twitter_username": "billykorando",
+    "picture": "https://pbs.twimg.com/profile_images/954784072982605824/Lypnv5kf_400x400.jpg"
+  },
+  "dalehighfill": {
+    "name": "Dale Highfill",
+    "github_username": "dghighfill",
+    "twitter_username": "dghighfill",
+    "picture": "https://avatars2.githubusercontent.com/u/1159618?s=460&v=4"
+  },
+  "dtuchs": {
+    "name": "Dmitry Tuchs",
+    "github_username": "dtuchs",
+    "picture": "https://avatars3.githubusercontent.com/u/25635227?s=400&u=ab37928a036a38ac8191dd70c92ec87655f3590a&v=4"
+  },
+  "szpak": {
+    "name": "Marcin Zajączkowski",
+    "github_username": "szpak",
+    "picture": "https://avatars3.githubusercontent.com/u/148013?s=460&v=4"
+  },
+  "dpreussler": {
+    "name": "Danny Preussler",
+    "github_username": "dpreussler",
+    "picture": "https://avatars1.githubusercontent.com/u/2426606?s=460&v=4"
+  },
+  "juliettederancourt": {
+    "name": "Juliette de Rancourt",
+    "github_username": "juliette-derancourt",
+    "twitter_username": "ju_derancourt",
+    "link": "https://juliette.tech",
+    "picture": "https://avatars2.githubusercontent.com/u/28359762?s=460&v=4"
+  },
+  "julientopcu": {
+    "name": "Julien Topçu",
+    "github_username": "julien-topcu",
+    "twitter_username": "JulienTopcu",
+    "link": "https://beyondxscratch.com",
+    "picture": "https://secure.gravatar.com/avatar/610f3914d9b392b389657823719f09dd?s=460"
+  },
+  "svenruppert": {
+    "name": "Sven Ruppert",
+    "twitter_username": "SvenRuppert",
+    "link": "https://www.sven-ruppert.de",
+    "picture": "https://avatars3.githubusercontent.com/u/2665330?s=96&v=4"
+  },
+  "bjhargrave": {
+    "name": "BJ Hargrave",
+    "github_username": "bjhargrave",
+    "link": "https://blog.hargrave.io",
+    "picture": "https://avatars3.githubusercontent.com/u/277682?s=400&v=4"
+  },
+  "rotty3000": {
+    "name": "Raymond Augé",
+    "github_username": "rotty3000",
+    "twitter_username": "rotty3000",
+    "link": "https://rotty3000.github.io",
+    "picture": "https://avatars2.githubusercontent.com/u/146764?s=400&v=4"
+  },
+  "kriegfrj": {
+    "name": "Fr Jeremy Krieg",
+    "github_username": "kriegfrj",
+    "link": "https://github.com/kriegfrj/"
+  }
+}
