@@ -858,6 +858,16 @@
     ]
   },
   {
+    "title": "Rendre ses tests concis et évolutifs grâce à JUnit 5 & cie",
+    "event": "Spring Meetup Paris",
+    "date": "2025-03-13",
+    "location": "Paris, France",
+    "link": "https://www.meetup.com/fr-FR/spring-meetup-paris/events/306239174/",
+    "speakers": [
+      "juliettederancourt"
+    ]
+  },
+  {
     "title": "Catching up with JUnit 5",
     "event": "JCON Europe",
     "date": "2025-05-12",
@@ -876,6 +886,26 @@
     "link": "https://lp.jetbrains.com/intellij-idea-conf-2025/",
     "speakers": [
       "marcphilipp"
+    ]
+  },
+  {
+    "title": "Rendre ses tests concis et évolutifs grâce à JUnit 5 & cie",
+    "event": "DevLille 2025",
+    "date": "2025-06-12",
+    "location": "Lille, France",
+    "link": "https://dev.events/conferences/dev-lille-ehqmq2x5",
+    "speakers": [
+      "juliettederancourt"
+    ]
+  },
+  {
+    "title": "Rendre ses tests concis et évolutifs grâce à JUnit 5 & cie",
+    "event": "Breizhcamp 2025",
+    "date": "2025-06-25",
+    "location": "Rennes, France",
+    "link": "https://www.breizhcamp.org/conference/programme/",
+    "speakers": [
+      "juliettederancourt"
     ]
   }
 ]
