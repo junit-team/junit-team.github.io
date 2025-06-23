@@ -27,4 +27,4 @@ You're invited to follow our ongoing work, review it, and give feedback. The fol
 
 - [User Guide](https://docs.junit.org/current/user-guide)
 - [Javadoc](https://docs.junit.org/current/api)
-- [GitHub Repository](https://github.com/junit-team/junit5/) with source code and an issue tracker
+- [GitHub Repository]({{ site.current_repo_url }}) with source code and an issue tracker
