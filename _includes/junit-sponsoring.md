@@ -197,6 +197,4 @@ Your donations will help to make that a reality!
 - Venkat Subramaniam
 - Yongjun Hong
 - Stiltsoft
-- Minkuk Jo
-- Euiyoung Nam
 - Gabi Moreno
