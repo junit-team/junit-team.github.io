@@ -196,5 +196,4 @@ Your donations will help to make that a reality!
 - Toshihiro Nakamura
 - Venkat Subramaniam
 - Yongjun Hong
-- Stiltsoft
 - Gabi Moreno
