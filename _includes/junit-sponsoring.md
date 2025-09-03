@@ -198,3 +198,5 @@ Your donations will help to make that a reality!
 - Yongjun Hong
 - Gabi Moreno
 - Kim Chanbin
+- Diego Cuber
+  
