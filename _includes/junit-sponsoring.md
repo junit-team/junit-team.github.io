@@ -172,6 +172,20 @@ Your donations will help to make that a reality!
         </div>
       </a>
     </li>
+    <li>
+      <a class="cardbronze" href="https://www.lambdatest.com">
+        <div class="cardbronze-image">
+          <img style="width:85%;" src="assets/img/sponsor-logo-LambdaTest.svg" alt="LambdaTest">
+        </div>
+        <div class="cardbronze-center">
+          <h4>LambdaTest</h4>
+        </div>
+        <div class="cardbronze-bottom">
+          <h4>Bronze Sponsor</h4>
+          <p>Since September 2025</p>
+        </div>
+      </a>
+    </li>
   </ul>
 </div>
 
@@ -199,4 +213,3 @@ Your donations will help to make that a reality!
 - Gabi Moreno
 - Kim Chanbin
 - Diego Cuber
-  
