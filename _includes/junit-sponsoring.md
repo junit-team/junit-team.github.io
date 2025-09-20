@@ -211,5 +211,4 @@ Your donations will help to make that a reality!
 - Venkat Subramaniam
 - Yongjun Hong
 - Gabi Moreno
-- Kim Chanbin
 - Diego Cuber
