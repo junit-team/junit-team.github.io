@@ -1,6 +1,6 @@
 ## Sponsoring
 
-We ask you – our users – to [support us](https://steadyhq.com/en/junit) so we can keep up the pace.
+We ask you – our users – to [sponsor us](https://github.com/sponsors/junit-team) so we can keep up the pace.
 We will continue our work on JUnit regardless of how many donations we receive.
 However, your support would enable us to do so with greater focus and not only on weekends or in our spare time.
 For example, we want to meet regularly and work colocated for a few days in order to get things done faster in face-to-face design and coding sessions.
