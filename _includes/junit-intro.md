@@ -11,11 +11,8 @@ As human beings, we stand with Ukraine and condemn the Russian government's war 
 
 ## About
 
-*JUnit 5* is the current generation of the JUnit testing framework, which provides a modern foundation for developer-side testing on the JVM.
-This includes focusing on Java 8 and above, as well as enabling many different styles of testing.
-
-*JUnit 6* is currently in active development and scheduled to be released in September 2025.
-
+*JUnit 6* is the current generation of the JUnit testing framework, which provides a modern foundation for developer-side testing on the JVM.
+It requires Java 17 and Kotlin 2.1 or above and enables many different styles of testing.
 
 ### Resources
 
