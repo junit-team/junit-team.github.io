@@ -43,7 +43,7 @@ $link-hover-decoration: underline !default;
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-sans-serif:  Inter, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
@@ -66,8 +66,8 @@ $line-height-base:        1.6 !default;
 $line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
 
 //** By default, this inherits from the `<body>`.
-$headings-font-family:    inherit !default;
-$headings-font-weight:    500 !default;
+$headings-font-family:    Blinker, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$headings-font-weight:    600 !default;
 $headings-line-height:    1.1 !default;
 $headings-color:          inherit !default;
 
@@ -494,7 +494,7 @@ $jumbotron-color:                inherit !default;
 $jumbotron-bg:                   #f5f5f5 !default;
 $jumbotron-heading-color:        inherit !default;
 $jumbotron-font-size:            ceil(($font-size-base * 1.5)) !default;
-$jumbotron-heading-font-size:    ceil(($font-size-base * 3.0)) !default;
+$jumbotron-heading-font-size:    ceil(($font-size-base * 2.6)) !default;
 
 
 //== Form states and alerts
