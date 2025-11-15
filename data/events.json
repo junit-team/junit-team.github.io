@@ -907,5 +907,15 @@
     "speakers": [
       "juliettederancourt"
     ]
+  },
+  {
+    "title": "The road to JUnit 6",
+    "event": "JavaLand 2026",
+    "date": "2026-03-10",
+    "location": "Rust, Germany",
+    "link": "https://meine.doag.org/events/javaland/2026/agenda/#agendaId.6823",
+    "speakers": [
+      "marcphilipp"
+    ]
   }
 ]
