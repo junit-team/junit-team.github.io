@@ -909,6 +909,16 @@
     ]
   },
   {
+    "title": "JUnit Insights",
+    "event": "Java Meetup Cologne",
+    "date": "2025-11-20",
+    "location": "Cologne, Germany",
+    "link": "https://luma.com/k66osg4i",
+    "speakers": [
+      "sormuras"
+    ]
+  },
+  {
     "title": "The road to JUnit 6",
     "event": "JavaLand 2026",
     "date": "2026-03-10",
