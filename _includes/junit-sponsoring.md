@@ -193,6 +193,5 @@ Your donations will help to make that a reality!
 - Sebastian Staack
 - Paul Schaub
 - Hiroshi Ito
-- Venkat Subramaniam
 - Gabi Moreno
 - Nicolai Parlog
