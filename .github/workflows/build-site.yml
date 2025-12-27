@@ -25,5 +25,5 @@ jobs:
           bundler-cache: true
       - name: Run Jekyll
         run: |
-          bundle install
+          bundle install --system
           bundle exec jekyll build
