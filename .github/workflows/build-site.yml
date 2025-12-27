@@ -1,0 +1,29 @@
+name: Build site
+
+on:
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@d354de180d0c9e813cfddfcbdc079945d4be589b # v1.275.0
+        with:
+          bundler-cache: true
+      - name: Run Jekyll
+        run: |
+          bundle install
+          bundle exec jekyll build
