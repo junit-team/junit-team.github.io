@@ -927,5 +927,15 @@
     "speakers": [
       "marcphilipp"
     ]
+  },
+  {
+    "title": "The road to JUnit 6",
+    "event": "JCON Europe 2026",
+    "date": "2026-04-21",
+    "location": "Cologne, Germany",
+    "link": "https://schedule.jcon.one/2026/session/1037213",
+    "speakers": [
+      "marcphilipp"
+    ]
   }
 ]
