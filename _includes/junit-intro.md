@@ -11,6 +11,6 @@ It requires Java 17 and Kotlin 2.1 or above and enables many different styles of
 
 You're invited to follow our ongoing work, review it, and give feedback. The following short list of links will get you started.
 
-- [User Guide](https://docs.junit.org/current/user-guide)
-- [Javadoc](https://docs.junit.org/current/api)
-- [GitHub Repository]({{ site.current_repo_url }}) with source code and an issue tracker
+- [User Guide](https://docs.junit.org)
+- [Javadoc](https://api.junit.org)
+- [GitHub Repository]({{ site.current_repo_url }}) with source code and issue tracker
